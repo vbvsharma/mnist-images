@@ -6,6 +6,10 @@ This repository contains all MNIST images in PNG format.
 
 This folder contains two more folders, test and train, for testing and training images, respectively. The name of the images follow the rule: `<ID>_<LABEL>.png`.
 
+# Data2
+
+This folder contains all the testing and training images. The name of the images follow the rule: `<ID>_<LABEL>.png`.
+
 # References
 
 - [The MNIST Database](http://yann.lecun.com/exdb/mnist/)
